@@ -1,0 +1,1 @@
+Esse programa em Python verifica se uma senha fornecida pelo usuário já foi comprometida em violações de dados. Ele utiliza a API do serviço "Have I Been Pwned" (https://haveibeenpwned.com/) para obter informações sobre senhas comprometidas.
